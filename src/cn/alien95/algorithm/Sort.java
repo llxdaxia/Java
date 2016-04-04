@@ -11,8 +11,13 @@ public class Sort {
     public static void main(String[] args) {
         int[] data={1,2,3,4,5,6,7,8,9};
         Sort sort = new Sort();
-        sort.quickSort(data);
-        System.out.println(Arrays.toString(data));
+//        sort.quickSort(data);
+//        System.out.println(Arrays.toString(data));
+
+        int[] data2 = {3,5,3,5,1,336,43,56,43,5};
+        sort.insertSort(data2);
+        System.out.println(Arrays.toString(data2));
+
     }
 
     //快速排序
@@ -52,5 +57,39 @@ public class Sort {
         data[low] = index;
         return low;
 
+    }
+
+    public int fenge(int data[],int low,int high){
+        int index = data[low]; //第一个数作为轴
+        if(low < high){
+            while (low < high && data[high] >= index){  //从右端开始扫描，如果比轴大，则指针左移一位
+                high --;
+            }
+            data[low] = data[high];
+            while (low < high && data[low] <= index){  //从左端开始扫描，如果比轴小，则指针右移一位
+                low ++;
+            }
+            data[high] = data[low];
+        }
+        data[low] = index;
+        return low;
+    }
+
+    public void insertSort(int[] data){
+        for (int i = 1; i < data.length; i ++) {
+            insert(data,data[i],i);
+        }
+    }
+
+    public void insert(int[] data,int target,int position){
+        for(int i = 0; i < position; i ++){
+            if(target <= data [i + 1] && target >= data[i]){
+
+                for (int k = position - 1; k > i ; k --){
+                    data[k + 1] = data[k];
+                }
+                data[i] = target;
+            }
+        }
     }
 }
