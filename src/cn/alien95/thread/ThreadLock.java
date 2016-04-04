@@ -5,8 +5,8 @@ package cn.alien95.thread;
  */
 public class ThreadLock {
 
-    Object lock = new Object();
-    int num = 0;
+    private Object lock = new Object();
+    private int num = 0;
 
     public static void main(String[] args) {
 
