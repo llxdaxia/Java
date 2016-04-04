@@ -2,42 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c8daf9c-9b04-454e-8a88-5b0e1e5cc7f8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/alien95/designmode/Singleton2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/alien95/designmode/Singleton3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/alien95/handler/Handler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/alien95/handler/Looper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/alien95/handler/Message.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/alien95/handler/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/alien95/io/lzwCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/alien95/thread/ThreadLocalAnalyze.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/alien95/thread/ThreadLock.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/algorithm/Test3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/thread/HandlerThreadFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/thread/MyUncaughtExceptionHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/thread/ThreadStudy$OneThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/thread/ThreadStudy$ThreadHolder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/thread/ThreadStudy$ThreadHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/thread/ThreadStudy$TwoThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/thread/ThreadStudy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/alien95/algorithm/Test3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/alien95/thread/HandlerThreadFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/alien95/thread/MyUncaughtExceptionHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cn/alien95/thread/ThreadStudy.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/kotlin-runtime-sources.jar" afterPath="$PROJECT_DIR$/lib/kotlin-runtime-sources.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/kotlin-runtime.jar" afterPath="$PROJECT_DIR$/lib/kotlin-runtime.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/algorithm/Search.class" afterPath="$PROJECT_DIR$/out/production/Study2/cn/alien95/algorithm/Search.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/algorithm/Sort.class" afterPath="$PROJECT_DIR$/out/production/Study2/cn/alien95/algorithm/Sort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/algorithm/Test1.class" afterPath="$PROJECT_DIR$/out/production/Study2/cn/alien95/algorithm/Test1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/algorithm/Test2.class" afterPath="$PROJECT_DIR$/out/production/Study2/cn/alien95/algorithm/Test2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Study2/cn/alien95/play/Play.class" afterPath="$PROJECT_DIR$/out/production/Study2/cn/alien95/play/Play.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/alien95/algorithm/Search.java" afterPath="$PROJECT_DIR$/src/cn/alien95/algorithm/Search.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/alien95/algorithm/Sort.java" afterPath="$PROJECT_DIR$/src/cn/alien95/algorithm/Sort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/alien95/algorithm/Test1.java" afterPath="$PROJECT_DIR$/src/cn/alien95/algorithm/Test1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/alien95/algorithm/Test2.java" afterPath="$PROJECT_DIR$/src/cn/alien95/algorithm/Test2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/alien95/play/Play.java" afterPath="$PROJECT_DIR$/src/cn/alien95/play/Play.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/alien95/thread/ThreadLock.java" afterPath="$PROJECT_DIR$/src/cn/alien95/thread/ThreadLock.java" />
     </list>
     <ignored path="Study2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ThreadLock.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ThreadLock.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/alien95/thread/ThreadLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="168">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Play.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Play.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/alien95/play/Play.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="168">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -152,8 +119,8 @@
         <option value="$PROJECT_DIR$/src/cn/alien95/handler/Message.java" />
         <option value="$PROJECT_DIR$/src/cn/alien95/handler/Looper.java" />
         <option value="$PROJECT_DIR$/src/cn/alien95/handler/Handler.java" />
-        <option value="$PROJECT_DIR$/src/cn/alien95/thread/ThreadLock.java" />
         <option value="$PROJECT_DIR$/src/cn/alien95/play/Play.java" />
+        <option value="$PROJECT_DIR$/src/cn/alien95/thread/ThreadLock.java" />
       </list>
     </option>
   </component>
@@ -685,6 +652,14 @@
       <option name="presentableId" value="Default" />
       <updated>1458886401333</updated>
     </task>
+    <task id="LOCAL-00001" summary="study">
+      <created>1459739282763</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1459739282763</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -728,6 +703,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="study" />
+    <option name="LAST_COMMIT_MESSAGE" value="study" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -741,6 +720,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="30" column="0" selection-start-line="9" selection-start-column="4" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -762,6 +742,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="30" column="0" selection-start-line="9" selection-start-column="4" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -939,6 +920,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -961,6 +943,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="168" column="9" selection-start-line="168" selection-start-column="9" selection-end-line="168" selection-end-column="9" />
+          <folding>
+            <element signature="e#4309#4310#0" expanded="false" />
+            <element signature="e#4336#4337#0" expanded="false" />
+            <element signature="e#7765#7766#0" expanded="false" />
+            <element signature="e#7802#7803#0" expanded="false" />
+            <element signature="e#8068#8069#0" expanded="false" />
+            <element signature="e#8137#8138#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1099,18 +1089,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/alien95/thread/ThreadLock.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/alien95/play/Play.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="168">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/alien95/play/Play.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/alien95/thread/ThreadLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="168">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           <folding />
         </state>
       </provider>
